@@ -3,4 +3,4 @@ Practice LSTMs with Pytorch. This LSTM learns 20 sine waves with different frequ
 The hyperparameters aren't optimized yet, so it overfits.
 The results can be seen below.
 The orange line shows the given input data. The blue line shows the prediction based on the input.
-[Image description]https://github.com/n3iii0/LSTM-Sine/blob/master/Prediction.png[/Image description]
+[Image description](https://github.com/n3iii0/LSTM-Sine/blob/master/Prediction.png)
